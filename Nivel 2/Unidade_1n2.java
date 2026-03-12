@@ -1,5 +1,18 @@
+import java.util.Scanner;
+
 public class Unidade_1n2{
     public static void main(String[] args) {
-        System.out.println("Hello Word!");
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Digite o valor da compra: ");
+        double valcompra = sc.nextDouble();
+
+        System.out.print("Digite o valor pago ao caixa: ");
+        double valpago = sc.nextDouble();
+
+        double troco = valpago - valcompra;
+
+        System.out.println("O valor do troco é: " + troco);
+
     }
 }
