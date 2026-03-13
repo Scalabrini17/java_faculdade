@@ -1,3 +1,4 @@
+//5. Calcular o quadrado de um número.
 import java.util.Scanner;
 
 public class Unidade_5 {

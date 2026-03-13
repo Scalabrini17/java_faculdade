@@ -1,3 +1,4 @@
+//1. Calcular o valor do troco.
 import java.util.Scanner;
 
 public class Unidade_1{

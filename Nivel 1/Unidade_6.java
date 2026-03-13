@@ -1,3 +1,4 @@
+//6. Calcular a soma de dois números.
 import java.util.Scanner;
 
 public class Unidade_6 {
