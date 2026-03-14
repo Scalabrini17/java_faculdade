@@ -1,7 +1,7 @@
 //1. Calcular o valor do troco.
 import java.util.Scanner;
 
-public class Unidade_1{
+public class Unidade_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
