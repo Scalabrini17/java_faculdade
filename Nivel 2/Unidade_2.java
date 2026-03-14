@@ -1,7 +1,7 @@
 //2. Dividir uma conta de restaurante entre amigos.
 import java.util.Scanner;
 
-public class Unidade_2_2 {
+public class Unidade_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

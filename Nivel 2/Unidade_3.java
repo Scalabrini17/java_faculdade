@@ -1,7 +1,7 @@
 //3. Calcular o consumo médio de combustível.
 import java.util.Scanner;
 
-public class Unidade_3_2 {
+public class Unidade_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
